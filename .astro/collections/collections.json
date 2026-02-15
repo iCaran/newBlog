@@ -1,0 +1,32 @@
+{
+  "collections": [
+    {
+      "hasSchema": true,
+      "name": "blog"
+    },
+    {
+      "hasSchema": true,
+      "name": "docs"
+    }
+  ],
+  "entries": {
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/blog/abdication_1/index.mdx": "blog",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/blog/abdication_2/index.mdx": "blog",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/advanced/about.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/advanced/customize.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/advanced/update.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/advanced/optimize.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/integrations/advanced.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/integrations/comment.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/integrations/components.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/integrations/content-present.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/integrations/links.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/integrations/others.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/setup/content.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/setup/deployment.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/setup/getting-started.mdx": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/setup/configuration.md": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/advanced/faq.md": "docs",
+    "file:///home/thelaughingkookaburra/astro-theme-pure/src/content/docs/integrations/unocss.md": "docs"
+  }
+}
